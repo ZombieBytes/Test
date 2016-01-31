@@ -1,0 +1,64 @@
+El Paso MPO Management System
+Software Configuration Management Plan
+Version <1.0>
+1/28/2016
+ 
+Document Control
+Approval
+The Guidance Team and the customer shall approve this document.
+Document Change Control
+Initial Release:	1/28/2016
+Current Release:	1/28/2016
+Indicator of Last Page in Document:	^-^
+Date of Last Review:	1/28/2016
+Date of Next Review:	TBA
+Target Date for Next Update:	TBA
+Distribution List
+This following list of people shall receive a copy of this document every time a new version of this document becomes available:
+Guidance Team Members:
+		Dr. Salamah Salamah	
+
+Customer: 	
+		Mr. Roger Williams
+
+Software Team Members:
+		Camel Heydarian
+		Christian Hughes
+		Chelsey Jurado
+		Jordan Cox
+Change Summary
+The following table details changes made between versions of this document
+
+Version	Date	Modifier	Description
+1.0	1/28/2016	ZombieBytes	
+			
+			
+
+
+
+
+ 
+
+
+TABLE OF CONTENTS
+DOCUMENT CONTROL	II
+APPROVAL	II
+DOCUMENT CHANGE CONTROL	II
+DISTRIBUTION LIST	II
+CHANGE SUMMARY	II
+1.	INTRODUCTION	1
+1.1.	REFERENCES	1
+2.	SOFTWARE CONFIGURATION IDENTIFICATION	1
+2.1.	SOFTWARE CONFIGURATION ITEM IDENTIFICATION	1
+2.2.	SOFTWARE CONFIGURATION ITEM ORGANIZATION	1
+3.	SOFTWARE CONFIGURATION CONTROL	1
+3.1.	DOCUMENTATION	1
+3.2.	CONFIGURATION CONTROL BOARD	2
+3.3.	PROCEDURES	2
+4.	SOFTWARE CONFIGURATION AUDITING	2
+
+  
+1.	Introduction
+The purpose of this section is to describe the project, state the purpose of this document, state the intended audience of this document, provide an overview of the sections within this document, and list any references that were used to write this document.
+1.1.	Project Description
+The system we are developing is for the El Paso Metropolitan Planning Organization (MPO). The El Paso MPO currently uses Microsoft Access and Microsoft Excel to manage projects, create projects, and generate reports. The El Paso MPO Management System will be web-based. The system will improve the current process by having one workspace in which the users can create, update, and retrieve information on various projects and reports. The system will also allow users to view information on the various projects.
